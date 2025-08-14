@@ -63,7 +63,7 @@ Sales-Analysis-Project/
 ## 📊 Example Visualizations
 
 <p align="center">
-  <img src="" alt="Sales Trend" width="45%">
+  <img src="Dashboard/8.png" alt="Revenue Champions" width="45%">
   <img src="outputs/top_products.png" alt="Top Products" width="45%">
 </p>
 
